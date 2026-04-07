@@ -24,7 +24,7 @@ A blood oxygen saturation (SpO2) monitoring system based on ESP32 and SparkFun M
 | SCL | GPIO 22 (SCL) |
 | GND | GND |
 
-![Hardware Schematic](./hardware/SCH_血氧测量_1-P1_2026-03-07.png)
+![Hardware Schematic](./hardware/schematic.png)
 
 ### Build / Build
 
@@ -78,7 +78,7 @@ MIT License - see LICENSE file
 | SCL | GPIO 22 (SCL) |
 | GND | GND |
 
-![硬件原理图](./hardware/SCH_血氧测量_1-P1_2026-03-07.png)
+![硬件原理图](./hardware/schematic.png)
 
 ### 编译
 
