@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#2c3e50"/>
+  <path d="M256 80 L320 180 L320 300 C320 380 280 420 256 420 C232 420 192 380 192 300 L192 180 Z" fill="#e74c3c"/>
+  <path d="M240 340 L240 400 L272 400 L272 340 Z" fill="#fff"/>
+  <circle cx="256" cy="160" r="40" fill="#3498db"/>
+  <text x="256" y="480" font-family="Arial" font-size="48" fill="#fff" text-anchor="middle">SpO2</text>
+</svg>
